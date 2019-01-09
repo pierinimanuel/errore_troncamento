@@ -18,7 +18,7 @@ namespace ConsoleApp1
          Console.WriteLine("l'errore per il tempo è di {0}", erroreTempo);
 
             spazio = erroreTempo * velocità;
-            Console.WriteLine("lo spazio è {0}", spazio);
+            Console.WriteLine("lo spazio è  {0}", spazio);
 
 
         }
